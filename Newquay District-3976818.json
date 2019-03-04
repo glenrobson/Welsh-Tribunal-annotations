@@ -1,1 +1,587 @@
-{"@context":"http://iiif.io/api/presentation/2/context.json","@id":"http://mcgrattan.org/oa_manifest_list?manifest=https:%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F3976818%2Fmanifest.json\u0026flatten=True\u0026show_keys=True\u0026most_recent=True\u0026use_ids=False","@type":"sc:AnnotationList","resources":[{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976819.json#xywh=0,0,3696,5556","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 6\u003cp\u003eName: Johnny Davies\u003cp\u003eAge: 23\u003cp\u003eAddress: Vrondolay New Quay\u003cp\u003eOccupation, profession or business: General farm servant\u003cp\u003eGrounds: G. (His services are absolutely necessary for I am personally unable to do anything on the farm.)\u003cp\u003eNature of application: I am asking for absolute Exemption.\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976820.json#xywh=0,0,3700,5580","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: I cannot manage my agricultural land without the services of Johnny Davies. If he is taken away I have no other alternative but to sell up my two horses and the two cows and allow the land to grow wild and to be uncultivated. As I asked before in my former application on Form R13 the aforesaid Johnny Davies and one housemaid are the only employees in my service. He is in full charge of the farm, doing anything necessary on it throughout the year. The horses, cows pigs and poultry are also under his sole care. He is also in charge of the garden. Including all I can assure you he is fully employed and his services are therefore absolutely necessary for me. I may add that I could not secure the services of anyone anywhere in the locality to replace him because of the scarcity of farm labour in the district and I therefore earnestly appeal for the exemption of the said Johnny Davies.\u003cp\u003eSignature: Jno[?] Thomas\u003cp\u003eAddress: Vrondolay New Quay\u003cp\u003eOccupation, profession or business: gentleman\u003cp\u003eDate of application: 1916-02-15T18:03:18.000Z\u003cp\u003eDecision of the Tribunal: Appeal refused\n\nE.J. Davies\n\nChairman  March 14.1916\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976821.json#xywh=0,0,3648,5592","resource":{"@type":"cnt:ContentAsText","chars":"Description: Form R-45. Notice of Appeal to Appeal (replacing form's \"Central\") Tribunal. Johnny Davies of Vrondolay New Quay, Farm Servant, not attested.\u003cp\u003eTranscription: I appeal on the grounds that I feel that my case has been unjustly considered by the Local Tribunal for reasons already submitted which are - \n1. I hold 41 acres more or less of land, 26 acres of which are grazing land which I rent. \n2. My arable land is about 4 or 5 acres more or less and to take my servant man away immediately will mean that this land will have to remain 12 months at least uncultivated, and so far I have NO prospects to secure any reliable farm hand to replace him. I cannot do anything myself - not brought up to it.\n3. I have 2 horses, 2 colts the Carter are not in also 2 cows/calf and calf daily expected. It will not be easy to sell any of these at a moment's notice if my man is taken away immediately. My man is in sole charge of the above animals and of the farm. I asked for his exemption on the above grounds. If this is not justified from your point of view give me 2 months extension of time for me to set and sow the land or 6 weeks to dispense with or sell all of my animals and the land can remain in fallow.\u003cp\u003eName of Tribunal: Cardiganshire/Cardigan County\u003cp\u003eNumber of Case: None\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976822.json#xywh=0,0,3668,5592","resource":{"@type":"cnt:ContentAsText","chars":"Description: Title of \"For Appeal Tribunal\"\u003cp\u003eTranscription: 4.  Reasons for the decision of the Appeal Tribunal. .... (Blank)\n5.  Decision. Appeal Dismissed. 29/2/16 by NW Jones Chairman\u003cp\u003eName of Tribunal: Cardiganshire/Cardigan County\u003cp\u003eNumber of Case: None\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976823.json#xywh=0,0,3684,5544","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: None\u003cp\u003eName: Simon Rees Evans\u003cp\u003eAddress: Marfa gwyn New Quay\u003cp\u003eOccupation, profession or business: Mechanic cars\u003cp\u003eAttested or not attested: Yes\u003cp\u003eGrounds: The appellant being employed by a London Firm the New Quay Tribunal had no power to deal with the case\u003cp\u003eSignature of appellant: Jenkin Thomas\u003cp\u003eAddress of appellant: 11 Park Street New Quay\u003cp\u003eOccupation, profession or business: Military Representative\u003cp\u003eDate: 1916-03-16T17:42:41.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976824.json#xywh=0,0,3752,5584","resource":{"@type":"cnt:ContentAsText","chars":"Description: Title of \"For Local Tribunal\"\u003cp\u003eTranscription: 4. Reasons for the decision ...  [Left blank]\n5. Decision. That the appellant be not exempted.\nSigned by John Jones Chairman on 29/3/16\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976825.json#xywh=0,0,2124,3136","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter\u003cp\u003eTranscription: Urban District Council Office,\nNew Quay,\nCardiganshire\n\n16th May 1916\n\nEvan Evans Esq\nClerk Appeal Tribunal\nAberystwith\n\nDear Sir,\nI enclose application of David Evans to Local Tribunal as requested.\n\nYours truly\nJ.W Newman\u003cp\u003eName of Tribunal: Unknown\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976826.json#xywh=0,0,3620,5428","resource":{"@type":"cnt:ContentAsText","chars":"Description: R-15\nBeige form\nNotice of Appeal\u003cp\u003eTranscription: Name of appellant - David Evans\nAddress Maenygroes, New Quay, Cardiganshire\nBusiness or occupation  Butcher \u0026 Farmer\nIf employer is appellant\nName of attested man   John Evans\nAddress  Bryntegwel, New Quay, Cardiganshire\nOccupation  Butcher \u0026 Labourer\nGrounds on which appeal is made\nI farm about 20 acres of land and carry on business as butcher. My health has been so poorly during the winter that I have been unable to do anything, and had to depend on my son the said John Evans to do all for me. My health is now slightly better, but I am yet far from being well. If my son is taken away I shall have to give up the farm \u0026 my business as butcher.\nDate on which duplicate sent to the other party in the case  May the 10th 1916\nSignature of appellant  David Evans\nDate May the 10th 1916\n\nReasons for the decision of the Local Tribunal\nNot allowed\nE.J.Davies\nChairman\nMay 11. 1916\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eNumber of Case: No 37   No16\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976827.json#xywh=0,0,3640,5556","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eName: John Evans\u003cp\u003eAddress: Bryntegwel, New Quay, Cards.\u003cp\u003eOccupation, profession or business: Butcher \u0026 Labourer\u003cp\u003eAttested or not attested: Attested\u003cp\u003eGrounds: I farm about 20 acres of land and carry on business as Butcher. My health has been very poorly, and am still far from being well, so that I have to depend entirely on my son, the said John Evans, to do all for me. If he is taken away I shall be obliged to give up the farm and my business as Butcher.\u003cp\u003eSignature of appellant: David Evans\u003cp\u003eAddress of appellant: Maenygroes Farm  New Quay, Cards.\u003cp\u003eOccupation, profession or business: Butcher \u0026 Farmer\u003cp\u003eWhy appellant acts for the man: Because he is indispensable to me.\u003cp\u003eDate: 1916-05-12T11:23:53.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976828.json#xywh=0,0,3644,5572","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: This application was disallowed by the Local Tribunal as in its opinion no case had been made out for exemption. The applicant states that he will have to give up his farm and his butcher's business if his son leaves, but he admitted in cross examination that he had been obliged to close his butcher's business all the winter owing to ill health, so that it cannot be contended that the business was in any way dependant on the extension of his son's services, and as for the farm the Tribunal felt that with the assistance of his two daughters who are at home he could easily look after his 20 acres of land even if his son who makes his living as a general labourer and only occasionally works for his father, has to join the forces.\n\nJ.W. Thomas\nClerk\nMay 13th/16\u003cp\u003eDecision: Appeal dismissed by consent, the military representative agreeing that the man should not be called up for military service until the 15th day of July 1916.\n\n2/6/16                                 John Jones\n                                              Chairman\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976829.json#xywh=0,0,3644,5548","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 8\u003cp\u003eName: Thomas Ogman Davies\u003cp\u003eAge: 28 yrs 10 months\u003cp\u003eAddress: Guildhall  New Quay  Cardiganshire\u003cp\u003eOccupation, profession or business: Draper\u003cp\u003eGrounds: (d)\u003cp\u003eNature of application: Absolute Exemption\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976830.json#xywh=0,0,3676,5580","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: I have a business of my own, I have no one to take charge of the business and if I am called up my business will be ruined.\nI may also point out that I am one of four sons and that the other three have already joined the forces, I therefore submit that my claim for exemption is reasonable both from a family and business standpoint.\u003cp\u003eSignature: Thomas Ogman Davies\u003cp\u003eDate of application: 1916-02-19T09:52:30.000Z\u003cp\u003eDecision of the Tribunal: Exempted until September 14th, 1916.\n\nMarch 14, 1916                             E.J. Davies\n                                                         Chairman\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976831.json#xywh=0,0,3596,5488","resource":{"@type":"cnt:ContentAsText","chars":"Description: R. - 11.\nNOTICE OF CLAIM BY ATTESTED MAN\u003cp\u003eTranscription: Name:  Thomas Ogmore Davies\nAddress: Guildhall New Quay Cardiganshire\nBusiness or Profession:  Draper\nWhere attested:  Lampeter\nNumber of Group:  11\nTo what group postponement is requested:  Group 11\nGrounds on which the application is made:  I am in business on my own, I have no one to take charge of the business \u0026 if I am called up my business will be ruined.\nSignature of attested man:  Thomas Ogmore Davies\nDate:  January 31st 1916\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976832.json#xywh=0,0,3648,5524","resource":{"@type":"cnt:ContentAsText","chars":"Description: FOR LOCAL TRIBUNAL\u003cp\u003eTranscription: Decision of Tribunal: Postponed to group 21\n\nFeb.15 1916                               E. J. Davies\n                                                     Chairman\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976833.json#xywh=0,0,3664,5644","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 35\u003cp\u003eName: Thomas Ogmore Davies\u003cp\u003eAddress: 'Guild Hall' New Quay\u003cp\u003eOccupation, profession or business: Draper\u003cp\u003eGrounds: To justify exemption under the Act the hardship must be \"Serious\" and the financial or business or domestic position \"exceptional\", hence the Appeal.\u003cp\u003eSignature of appellant: J. Thomas\u003cp\u003eAddress of appellant: 11 Park St. New Quay\u003cp\u003eOccupation, profession or business: Military Representative\u003cp\u003eDate: 1917-01-06T10:04:16.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976834.json#xywh=0,0,3688,5644","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Applicant conducts the business of Draper and Milliner and his being called up would mean his having to close his business, which obviously would be a serious loss to him. He has undergone examination by the Medical Board at Carmarthen and has only been passed for a labour unit. Under the circumstances the local tribunal is strongly convinced that he should be exempted from military service.\nE.J. Davies\nChairman\nJan 8 1917\u003cp\u003eDecision: Appeal dismissed \nJohn Jones\nChairman\nJan 19 1917\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976835.json#xywh=0,0,3600,5420","resource":{"@type":"cnt:ContentAsText","chars":"Decision of the Tribunal: Exempted till August 22.1916 E.J. Davies. Chairman May. 22.1916\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976836.json#xywh=0,0,3632,5520","resource":{"@type":"cnt:ContentAsText","chars":"Description: Beige form R-11\nNOTICE OF CLAIM BY ATTESTED MAN (Married)\u003cp\u003eTranscription: 1. Name  Evan Bryn Evans\nAddress  London House New Quay\nBusiness or profession (if not an employed person) Grocer \u0026 Provision Merchant\nWhere attested  Lampeter\nNumber of Group 43\n3. To what group postponement is requested  Total Exemption\n4. Grounds on which application is made  Business obligations \u0026 Financial Losses\nSignature of attested man Evan Bryn Evans\nDate May 19/1916\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976837.json#xywh=0,0,3608,5520","resource":{"@type":"cnt:ContentAsText","chars":"Description: Beige form headed 'Observations of Recruiting Officer'\u003cp\u003eTranscription: Decision of Tribunal: Exempted till August 31st 1916.\nE. F. Davies\nChairman\nMay 22 1916\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976838.json#xywh=0,0,3656,5620","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 33\u003cp\u003eName: Evan Bryn Evans\u003cp\u003eAddress: London House, Newquay\u003cp\u003eOccupation, profession or business: Grocer\u003cp\u003eGrounds: To justify exemption under the act the hardship must be \"serious\" and the financial or business obligation or domestic position \"exceptional\" hence the appeal.\u003cp\u003eSignature of appellant: J.Thomas\u003cp\u003eAddress of appellant: 11 Park Street New Quay\u003cp\u003eOccupation, profession or business: Military Representative\u003cp\u003eDate: 1917-01-06T09:56:37.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976839.json#xywh=0,0,3644,5588","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Applicant conducts the business of a grocer and his being called up would undoubtedly involve him in serious financial loss. He is moreover 39 years of age and the Local Tribunal consider that he is fully entitled to exemption from military service. \nE.J. Davies, Chairman , Jan 8 1917\u003cp\u003eDecision: Appeal dismissed. Jan 19th 1917, John Jones, Chairman\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976840.json#xywh=0,0,3620,5576","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 17\u003cp\u003eName: John Owen James\u003cp\u003eAge: 30 years\u003cp\u003eAddress: Manchester House \u0026 Omin Villa New Quay\u003cp\u003eOccupation, profession or business: General Ironmonger \u0026 Implement (Agricultural) Agents\u003cp\u003eGrounds: (d)  \u0026  (g)\u003cp\u003eNature of application: Absolute\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976841.json#xywh=0,0,3656,5636","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: (1) If called up I shall be compelled to close up and I shall be financially ruined, also if the shop be closed severe hardship will be inflicted on the surrounding Districts to Farmers and others espeshally now that the Harvest is approaching.\n(2) I have on Hand a Heavy stock of Harvesting Machinery Binder Twine (3 1/2 Tons) for which I would be Compelled to pay for at end of season without having a chance of disposing of some etc\u003cp\u003eDecision of the Tribunal: Exempted till August 31st, 1916\nE.J. Davies\nChairman\nMay 22. 1916\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976842.json#xywh=0,0,3680,5540","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 7\u003cp\u003eName: John Owen James\u003cp\u003eAge: 30 years\u003cp\u003eAddress: Omia Villa \u0026 Manchester House New Quay\u003cp\u003eOccupation, profession or business: General Ironmonger \u0026 Agricultural Implements Agent\u003cp\u003eGrounds: D \u0026 G\u003cp\u003eNature of application: Absolute Exemption\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976843.json#xywh=0,0,3752,5576","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: (a) That I am the sole owner and in charge of a General Ironmongery and Agricultural Implements Business and that in my absence the Business will have to be closed. \n(B) That my Business is the only one of the kind within New Quay and within 7 miles on one side 15 miles on the other and 20 miles on the other side. I supply Agricultural Implements and Machinery and General Ironmongery to practically all the Farms and Inhabitants in surrounding Districts. \n(C) That my business is requrired to serve the needs of the District and that if closed a great deal of hardship will be inflicted upon the Public, especially to Farmers, being that they Depend on me for spare Parts for their Harvesting Machinery.\nD. That in the event of my having to leave the Business and the premises being closed my large and valuable store will be depreciated in value and I shall be financially ruined.\u003cp\u003eSignature: J.O.James\u003cp\u003eDate of application: 1916-02-23T10:23:13.000Z\u003cp\u003eDecision of the Tribunal: Exempted as long as his present circumstances obtain. \nE.J.Davies, Chairman, March 14, 1916\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976844.json#xywh=0,0,3680,5608","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 34\u003cp\u003eName: John Owen James (Single)\u003cp\u003eAddress: Omia Villa \u0026 Manchester House, New Quay\u003cp\u003eOccupation, profession or business: Ironmonger\u003cp\u003eAttested or not attested: Yes\u003cp\u003eGrounds: To justify exemption under the Act the hardship must be 'serious' and the financial or business obligations or domestic position 'exceptional' hence the appeal.\u003cp\u003eSignature of appellant: J Thomas\u003cp\u003eAddress of appellant: 11 Park St New Quay\u003cp\u003eOccupation, profession or business: Military Representative\u003cp\u003eDate: 1917-01-06T11:10:36.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976845.json#xywh=0,0,3716,5612","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Applicant conducts the business of Ironmonger and Agricultural Implements dealer, doing a large business with farmers several of whom gave evidence that it is very important for them that he should be retained.\nThe Local Tribunal is strongly and unanimously of opinion that he should be exempted from military service.\nE.J. Davies\nChairman\nJan 8. 1917\u003cp\u003eDecision: Appeal dismissed\n[?] Jones\nChairman\nJan 19th 1917\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976846.json#xywh=0,0,3584,5440","resource":{"@type":"cnt:ContentAsText","chars":"Description: R-16 Other party\nNOTICE OF APPEAL (DUPLICATE)\u003cp\u003eTranscription: 1. Name of appellant - David James\nAddress: Garage Newquay\nBusiness or occupation: Garage Proprietor\n2. If employer is appellant - Yes\nName of attested man: Daniel James\nAddress: Field Place New Quay\nOccupation: Motor Driver and Mechanic\n3. Grounds on which appeal made. \nWhen Danl James' case was last before you,  I did not apply for his exemption because of my near connection with members of the local tribunal, but now that Dr Griffiths informs me that he is going to apply for his exemption I think it only right to the public \u0026 myself that I should state the true facts; I have four cars for public hire \u0026 keep up a bi-daily service to Aberayron and owing to the great mileage covered by my cars they call for constant repairs \u0026 as Dan James is the only man I know within twenty miles who understands the mechanism \u0026 can repair a car, if he leaves me I shall be unable to carry on. Commercial travellers cars also require repairs to continue their journey.\nSignature of appellant: David James\nDate: June 6th 1916\n\nExemption as long as he remains in his present occupation of motor driver and mechanic in this district\nE.J. Davies\nChairman\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976847.json#xywh=0,0,3656,5532","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eName: Daniel James\u003cp\u003eAddress: Field Place, New Quay Cards\u003cp\u003eOccupation, profession or business: Motor Driver \u0026 Mechanic\u003cp\u003eGrounds: That [CROSSED OUT: notwithstanding that this man's principal and usual occupation is one of the Certified Occupations,] it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation\u003cp\u003eSignature of appellant: Richard E. Jones\u003cp\u003eAddress of appellant: Appeal, NS Representative, Drill Hall, Aberystwyth\u003cp\u003eDate: 1918-06-01T09:47:59.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976848.json#xywh=0,0,3680,5552","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: That he is, on account of being the only Motor mechanic a necessity for this district. \nE.J. Davies\nChairman \nMay 30th 1918\u003cp\u003eDecision: The man be exempted from Military Service Temporary up to the 21st day of September 1918. Grounds Certified occupation. \nJuly 5th 1918. Chairman. \u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976849.json#xywh=0,0,3620,5604","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 33\u003cp\u003eName: Evan Bryn Evans\u003cp\u003eAge: 39\u003cp\u003eAddress: London House New Quay. Card\u003cp\u003eOccupation, profession or business: Grocer \u0026 Provision \u0026 General Merchant\u003cp\u003eGrounds: A,D,G\u003cp\u003eNature of application: Conditional Exemption\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976850.json#xywh=0,0,3688,5636","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: If called up my Business will be ruined and this would involve myself wife and Family in great Loss Financially, I would also respectfully point out that the War Office acknowledge my Trade as of national importance\u003cp\u003eSignature: Evan Bryn Evans\u003cp\u003eAddress: London House New Quay\u003cp\u003eDecision of the Tribunal: Conditional Exemption as long as his circumstances remain as they are at present and provided also he joined the local Volunteer Training Corps. E.J.Davies Chairman, Jan 4 1917\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976851.json#xywh=0,0,3704,5552","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eName: Evan Bryn Evans\u003cp\u003eAddress: London House New Quay Cards\u003cp\u003eOccupation, profession or business: Grocer\u003cp\u003eGrounds: That [CROSSED OUT: notwithstanding that this man's principal and usual occupation is one of the Certified Occupations,] it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation\u003cp\u003eSignature of appellant: Richard E. Evans\u003cp\u003eAddress of appellant: Appeal, N.S. Representative, Drill Hall, Aberystwyth\u003cp\u003eDate: 1918-06-01T10:54:09.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976852.json#xywh=0,0,3736,5568","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Personal \u0026 financial\nBeing proprietor of a one man business and engaged in distributing food\nEJ Davies Chairman\nMay 30. 1918\u003cp\u003eDecision: The man be exempted from Military Service Temporary until the 21st day of September 1918. Grounds Occupation and Serious hardship.\nJuly 5th 1918. Chairman.\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976853.json#xywh=0,0,3608,5492","resource":{"@type":"cnt:ContentAsText","chars":"Name of Tribunal: Cardiganshire/Cardigan County\u003cp\u003eName: Griffith Arthur Rees\u003cp\u003eAge: 38\u003cp\u003eDate of birth: 1879-09-07T04:59:37.000Z\u003cp\u003eMedical grade category: Grade 3\u003cp\u003eDate of last examination: 1918-03-01T03:59:37.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1913-12-27T03:59:37.000Z\u003cp\u003eVoluntarily attested: Yes\u003cp\u003eAddress: 12 Rock St  New Quay\u003cp\u003eAddress on National Registration Certificate: Same\u003cp\u003eOccupation, profession or business: Carpenter, Undertaker \u0026 Boat Repair\u003cp\u003eAddress of place of employment: Patent Slip Joinery\u003cp\u003ePrecise occupation before 15 August 1915: As above\u003cp\u003eLength of occupation before 15 August 1915: 18 years\u003cp\u003eName of employer: Self\u003cp\u003eAddress: 12 Rock St  New Quay\u003cp\u003eBusiness: As above\u003cp\u003eNature of application: Renewal\u003cp\u003eGrounds: A  \u0026  D\u003cp\u003eReasons in support of application: Circumstances exactly the same as when former application was made.\u003cp\u003eTag: Beige R186/187, page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976854.json#xywh=0,0,3628,5460","resource":{"@type":"cnt:ContentAsText","chars":"Whether any previous application has been made: Cardiganshire Appeal Tribunal. Exemption for three months.\u003cp\u003eChange of conditions or circumstances: No\u003cp\u003eSignature of the man: G. A.  Rees\u003cp\u003eDate: 1918-11-21T04:06:28.000Z\u003cp\u003eTag: Beige R186/187, page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976855.json#xywh=0,0,3356,4132","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter\u003cp\u003eTranscription: To the Chairman and Members of the Appeal Tribunal for the County of Cardigan.\n\nGentlemen,\nWe the undersigned boatmen and fishermen earning our living in the Harbour of Newquay, respectfully appeal to the County Tribunal to uphold the decision of the Local Tribunal in the case of Mr Griffith Arthur Rees and to confirm his exemption. We are dependent on him for the supply of materials and for doing all repairs to our boats, and it is very important for us, that his services should be available as in the past.\nWe would strongly emphasise the assertion that his retention in his foresent business is essential for us, and we consider his work is of national importance inasmuch as his service is important to us in fishing operations thus producing food for the Community We very earnestly appeal for his exemption, E. P. Jones.\nLewis Davies, 14 Rock St;\nDaniel Davies, 10 Rock St;\nD E Jones, 4 Do;\nEvan Williams, 4 Rock St;\nR Williams,\nThomas Davies,\nJohn Jones,\nHenry Davies,\nEvan Evans,\nFred Charlor,\nGriffith Griffiths,\nDavid Evans,\nJohn Thomas,\nJohn Jones,\nDavid Rees,\nT. C. James,\nThomas Thomas,\nJ. Evans,\nJ. Davies,\nLewis Evans,\nThomas Evans,\nBenjamin Davies,\nDavid Davies.\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976856.json#xywh=0,0,3652,5556","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 36\u003cp\u003eName: Griffith Arthur Rees\u003cp\u003eAge: 36\u003cp\u003eDate of birth: 1879-09-07T05:08:51.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1913-12-26T04:08:51.000Z\u003cp\u003eAddress: 12 Rock Street New Quay\u003cp\u003eAddress at date of National Registration: Same\u003cp\u003eOccupation, profession or business: Carpenter \u0026 Joiner \u0026 Boat repairer\u003cp\u003eLength of occupation before 15 August 1915: 8 years at New Quay\u003cp\u003eGrounds: A  \u0026  D\u003cp\u003eNature of application: Conditional Exemption\u003cp\u003eTag: Beige R41/42: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976857.json#xywh=0,0,3700,5568","resource":{"@type":"cnt:ContentAsText","chars":"Reasons: If call away my business would be ruined and the consequent hardship \u0026 financial loss would be very serious to me.\u003cp\u003ePrevious applications: Yes. Granted three months exemption by the New Quay tribunal.\u003cp\u003eSignature: Griffith Arthur Rees\u003cp\u003eDate of application: 1916-08-16T05:18:22.000Z\u003cp\u003eDecision of the Tribunal: Conditional Exemption as long as his circumstances remain as at present and provided he joins the local Volunteer Training Corps.  E.J. Davis Chairman.  Jan. 4. 1917\u003cp\u003eTag: Beige R41/42: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976858.json#xywh=0,0,3644,5540","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eName: Griffith Arthur Rees\u003cp\u003eAddress: 12 Rock St, New Quay  Cards\u003cp\u003eOccupation, profession or business: Carpenter\u003cp\u003eGrounds: That it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation.\u003cp\u003eSignature of appellant: Richard  E.  Jones\u003cp\u003eAddress of appellant: Appeal, N.S. Representative, Drill Hall, Aberystwyth\u003cp\u003eDate: 1918-06-01T05:23:04.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976859.json#xywh=0,0,3700,5548","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Personal and financial also essential to the place as boat repairer which is very important for the local fishermen.  He is a Grade 3 man and his withdrawal from his present occupation would be very prejudicial. E.J.Davies Chairman May 30 1918\u003cp\u003eDecision: This man be exempted from Military Service. Temporary up to 21st September 1918.  Grounds occupation and serious hardship.\n\nJuly 5th 1918         Chairman\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976860.json#xywh=0,0,3624,5616","resource":{"@type":"cnt:ContentAsText","chars":"Name of Tribunal: New Quay District\u003cp\u003eNumber of Case: 14\u003cp\u003eName: Griffith Arthur Rees/Read\u003cp\u003eAge: 38\u003cp\u003eDate of birth: 1879-09-07T14:08:17.000Z\u003cp\u003eMedical grade category: Grade 3\u003cp\u003eDate of last examination: 1918-03-11T15:08:37.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1913-12-26T15:08:56.000Z\u003cp\u003eRegional number: K352628\u003cp\u003eVoluntarily attested: Yes\u003cp\u003eAddress: 12 Rock St New Quay\u003cp\u003eAddress on National Registration Certificate: 12 Rock St\u003cp\u003eOccupation, profession or business: Carpenter, Undertaker \u0026 Boat Repairer\u003cp\u003eAddress of place of employment: Patent Slip, New Quay\u003cp\u003ePrecise occupation before 15 August 1915: [same]\u003cp\u003eLength of occupation before 15 August 1915: since I was 14 years old \u003cp\u003eName of employer: self\u003cp\u003eNature of application: Renewal\u003cp\u003eGrounds: A. D. \u0026 G.\u003cp\u003eReasons in support of application: It is important in the interest of the fishermen that I should be kept here as otherwise it would be very difficult for them to continue their work if any damage occurred to their boats. I also do considerable undertaking work and further I supply a number of undertakers in the adjacent district with trade material, being the only one in the neighbourhood who has a stock always available.\nHaving a large stock on hand it would be a very serious financial loss if I had to leave.\u003cp\u003eTag: Beige R186/187, page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976861.json#xywh=0,0,3660,5620","resource":{"@type":"cnt:ContentAsText","chars":"Whether any previous application has been made: Appeal Tribunal July 5, 1918, when exemption of six months given by New Quay Local Tribunal was reduced to 3 months. This exemption expires Sept 21. 1918.\u003cp\u003eChange of conditions or circumstances: No change.\u003cp\u003eSignature of the applicant: G. A.  Rees\u003cp\u003eAddress: 12 Rock Street New Quay Card.\u003cp\u003eDate: 1918-08-29T05:26:47.000Z\u003cp\u003eDecision of the Tribunal: The exemption is Temporary up to and including December 6th 1918. The ground on which the exemption is granted is Occupation.  6/9/18  Chairman\u003cp\u003eTag: Beige R186/187, page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976862.json#xywh=0,0,3664,5616","resource":{"@type":"cnt:ContentAsText","chars":"Name of Local Tribunal: New Quay District\u003cp\u003eNumber of Case: 36\u003cp\u003eName: Griffith Arthur Rees\u003cp\u003eAddress: 12 Rock Street New Quay\u003cp\u003eOccupation, profession or business: Carpenter\u003cp\u003eAttested or not attested: (ticked)\u003cp\u003eGrounds: To justify Exemption under the Act the hardship must be 'serious' and the financial or business obligations or domestic position 'exceptional' hence the appeal,\u003cp\u003eSignature of appellant: J Thomas\u003cp\u003eAddress of appellant: 11 Park Street, New Quay\u003cp\u003eOccupation, profession or business: Military Representative\u003cp\u003eDate: 1917-01-06T15:13:56.000Z\u003cp\u003eTag: Pink R43/R44: Page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976863.json#xywh=0,0,3716,5648","resource":{"@type":"cnt:ContentAsText","chars":"Reason for decision of Local Tribunal: Applicant conducts the business of Cabinet Maker Builder and Boat Repairer, which if called it would have to be closed, His service is of very great importance to the fishermen, and his having a big stock in trade would mean to him a very serious financial loss. The local tribunal is strongly convinced that he is entitled to exemption. E.J. Davies, Chairman Jan 8 1917\u003cp\u003eDecision: Appeal dismissed \nJohn Jones Chairman \nJan 19 1917\u003cp\u003eTag: Pink R43/R44: Page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976864.json#xywh=0,0,3640,5512","resource":{"@type":"cnt:ContentAsText","chars":"Name: Griffith Arthur Rees\u003cp\u003eAge: 38\u003cp\u003eDate of birth: 1879-09-07T12:48:00.000Z\u003cp\u003eMedical grade category: Grade 3\u003cp\u003eDate of last examination: 1918-03-01T13:50:30.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1913-12-27T13:53:00.000Z\u003cp\u003eVoluntarily attested: Yes\u003cp\u003eAddress: 12 Rock St  Newquay\u003cp\u003eOccupation, profession or business: Carpenter Undertaker \u0026 Boat Repairer\u003cp\u003eAddress of place of employment: Patent Slip ???\u003cp\u003ePrecise occupation before 15 August 1915: As Above\u003cp\u003eLength of occupation before 15 August 1915: 18 years\u003cp\u003eName and address of last employer before 15 August 1915: Self\u003cp\u003eName of employer: Self\u003cp\u003eAddress: As above\u003cp\u003eBusiness: As above\u003cp\u003eNature of application: Renewal\u003cp\u003eGrounds: A \u0026 D\u003cp\u003eReasons in support of application: Circumstances exactly the same as when former application was made\u003cp\u003eTag: Beige R186/187, page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976865.json#xywh=0,0,3636,5500","resource":{"@type":"cnt:ContentAsText","chars":"Whether any previous application has been made: Cardiganshire Appeal Tribunal\nExemption for three months\u003cp\u003eChange of conditions or circumstances: Not\u003cp\u003eSignature of the man: G. A Rees\u003cp\u003eDate: 1918-11-29T14:22:44.000Z\u003cp\u003eTag: Beige R186/187, page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976866.json#xywh=0,0,2076,3112","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter written on beige paper\n\"27\" written on top right corner\u003cp\u003eTranscription: Tynant\nNew Quay, Cards.\nSept.6.18\nDear Sir,\nI am writing this in support  of the appeal which Mr. David James is making for Daniel James, his motor mechanic.\nI am one of the local doctors, \u0026 I keep two cars \u0026  a motor bicycle, \u0026 it is in the nature of things that they often go wrong, \u0026 it is entirely due to Daniel James that I am able to carry on. My predecessor here kept a man\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976867.json#xywh=0,0,2120,3072","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter written on beige paper\nPart 2 of letter addressed Tynant, New Quay, Cards\nDated Sept. 6. 18\u003cp\u003eTranscription: man, but I haven't one, \u0026 depend on James. to keep my machines in going order.\n\nYours faithfully\nD.R.T. Griffiths\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976868.json#xywh=0,0,3652,5620","resource":{"@type":"cnt:ContentAsText","chars":"Name of Tribunal: New Quay District\u003cp\u003eName: Daniel James\u003cp\u003eAge: 32\u003cp\u003eDate of birth: 1885-09-22T14:32:04.000Z\u003cp\u003eMedical grade category: 4\u003cp\u003eDate of last examination: 1917-04-10T14:32:50.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1914-11-14T15:33:19.000Z\u003cp\u003eVoluntarily attested: Yes\u003cp\u003eAddress: 1 Field Place New Quay\u003cp\u003eAddress on National Registration Certificate: 1 Field Place New Quay\u003cp\u003eOccupation, profession or business: Motor mechanic\u003cp\u003eAddress of place of employment: Garage New Quay\u003cp\u003ePrecise occupation before 15 August 1915: Yes\u003cp\u003eLength of occupation before 15 August 1915: 2 years\u003cp\u003eName and address of last employer before 15 August 1915: Same employer\u003cp\u003eName of employer: David James\u003cp\u003eAddress: Garage New Quay\u003cp\u003eBusiness: Garage Proprietor\u003cp\u003eNature of application: For renewal\u003cp\u003eGrounds: A\u003cp\u003eReasons in support of application: The applicant being the only Motor Mechanic in the district his services are indispensable for the public interest. The Public Motor Services between New Quay and Aberayron the upkeep of which is dependent upon him and also the Repairs of every other car in the district. I attach Dr Griffiths letter in support of my appeal\u003cp\u003eTag: Beige R186/187, page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976869.json#xywh=0,0,3632,5576","resource":{"@type":"cnt:ContentAsText","chars":"Whether any previous application has been made: ii By Employer, A County Tribunal,  B June 1918 (C) Certified occupation, D. Sept 21/18   June 1918\u003cp\u003eSignature of the applicant: David James\u003cp\u003eAddress: Garage, New Quay\u003cp\u003eSignature of the man: Daniel James\u003cp\u003eDecision of the Tribunal: The exemption is Temporary up to and including 25th April 1919. The ground on which the exemption is granted is: Occupation. Chairman, 25/10/1918\u003cp\u003eTag: Beige R186/187, page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976870.json#xywh=0,0,3604,5480","resource":{"@type":"cnt:ContentAsText","chars":"Name of Tribunal: Unknown\u003cp\u003eName: Evan Bryn Evans\u003cp\u003eAge: 40\u003cp\u003eDate of birth: 1877-10-18T11:01:22.000Z\u003cp\u003eMedical grade category: 2\u003cp\u003eDate of last examination: 1918-06-20T11:27:40.000Z\u003cp\u003eMarried or single: Married\u003cp\u003eDate of marriage: 1907-12-26T12:01:22.000Z\u003cp\u003eRegional number: K350104\u003cp\u003eVoluntarily attested: Yes\u003cp\u003eAddress: London House New Quay. Card\u003cp\u003eAddress on National Registration Certificate: London House New Quay Card\u003cp\u003eOccupation, profession or business: Family and Shipping. Grocer \u0026 Provision \u0026 General Merchant\u003cp\u003eAddress of place of employment: London House New Quay Card\u003cp\u003ePrecise occupation before 15 August 1915: In the Same occupation\u003cp\u003eLength of occupation before 15 August 1915: 9 years at the same address and about 16 years at Cardiff in the same occupation\u003cp\u003eName and address of last employer before 15 August 1915: Self\u003cp\u003eNature of application: Renewal\u003cp\u003eGrounds: D \u0026 G\u003cp\u003eReasons in support of application: Because my Business is entirely a one Man's Business, and if I am called upon to join the colours, I shall have to wind up my Business  as I have nobody capable of taking Charge, It is more than my wife can possibly manage Especially under the present  Conditions, with all the extra Work incurred  with the Ration Books. She is also physically  unit, I also respectfully beg to point out that the Grocery provision Trade is included on the new List  of Certified Occupations.\u003cp\u003eTag: Beige R186/187, page 1","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976871.json#xywh=0,0,3624,5504","resource":{"@type":"cnt:ContentAsText","chars":"Whether any previous application has been made: By Self to the appeal Tribunal on the 5th of July 1918 3 months Exemption Expiring on the 31st of Sept 1918\u003cp\u003eChange of conditions or circumstances: Renewal\u003cp\u003eSignature of the man: Evan Bryn Evans\u003cp\u003eDate: 1918-08-31T11:21:35.000Z\u003cp\u003eDecision of the Tribunal: The exemption is Temporary up to and including 25th April 1919 .\nThe ground (or grounds on which the exemption is granted is Certified occupation. 25.10.1918.  Chairman\u003cp\u003eTag: Beige R186/187, page 2","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976872.json#xywh=0,0,3500,3524","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter\u003cp\u003eTranscription: Copy of Medical Certificate handed to the President of the Medical Board.\n1. I beg to certify that I attended Wm Williams Brynsiloh, Nanternis, New Quay, Cards.when 20 years of age from Tubercular Pleurisy with effusion on left side, which has left some retraction of lung. He has since then been troubled with shortness of breath, and inability to sleep on the left side.  He is generally in a weak state of health and extremely nervous, with cold and clammy extremities. I have advised him to see the Tuberculosis Officer, as he has today (6.0PM) a temperature of 99.5. \nSigned Evan Evans F.R.C.S. D.P.H. , Aeron Villa Felinfach\nII  Wm Williams Brynsiloh, Nanternis NewQuay Cards\nPleurisy with effusion 10 Years Ago.\n1 Brother died of P.H.\nSputum now Negative\n2. Diagrams of Chest (Front \u0026 Behind) showing\n(a) P.T. Crops in Lungs\n(b) That Chips of Lungs do not increase by cough.\nD.Chas Lloyd, Tuberculosis Officer, Lampeter. May 1918\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976873.json#xywh=0,0,3544,3556","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter\u003cp\u003eTranscription: 9. On May 20th 1918 I was examined by the National Service Medical Board Carmarthen, and was handed a certificate of which the following is a Copy:\n\"The examination of Mr Wm Williams residing at Brynsiloh, Nanternis, New Quay has been postponed till 20th July 1918 on account of T.B. on which date he will be required to present himself for Medical Examination.\" Signed: C.P.Parry, Deputy \nCommissioner Medical Board Carmarthen.\nAgain on July 18th I was examined, and again received a Certificate similar to the above, postponing my examination till Sept 18th on account of T.B.\nI was the third time notified from Brecon to attend at Carmarthen for Examination on Sept 16th. On that date I was not examined by the Medical Board, and after about half-an-hour's search I was informed that my History Sheet had not been sent from Brecon, and was handed a \"Classification Card\" Grade (2), dated May 20th 1918, bearing in the space for Signature of Man , a signature other than mine. I objected to  the date on the card, and to the signature, and then was allowed to sign that it was on Sept 16th that I received same.\nI was not allowed my day's fee (3/6d) at Carmarthen, as I was not examined, although a \"Claim Form\" was sent on to me from Brecon.\nIn view of the above facts, I appeal for the right to appear before the Medical Assessors.\u003cp\u003eName of Tribunal: New Quay District\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976874.json#xywh=0,0,3132,4172","resource":{"@type":"cnt:ContentAsText","chars":"Description: Letter written by Evans Rowlands \u003cp\u003eTranscription: My name is Evan Rowlands now a butcher @ Aberayron and have 350 customers (350 coupons) per week to supply with meat, There are only two regular butchers at Aberayron. I joined the Army April 1916 And in three months training was discharged owing to a Valvular Disease of the Heart believing that I would not be called upon to join again I opened a business @ Aberayron.\nThe Medical Gentlemen told me at my last examination, that I should not be sent for examination so often, owing to the fact that VDH will not improve by excitement\nE Rowlands\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976875.json#xywh=0,0,3600,5508","resource":{"@type":"cnt:ContentAsText","chars":"Description: Beige form\nApplication for Medical Re-examination  R.M.1\u003cp\u003eTranscription: 1. Name of man William Williams\n2. Address  Brynsiloh, Nanternis, New Quay, Cardiganshire\n4. Years of age last birthday  29   Date and year of birth  October 19th 1888\n5. Occupation, profession or business  Schoolmaster - Headteacher of  Llwyndafydd Council School\n6.  Name and address of National Service Medical Board by whom last examined. Carmarthen National Service Medical Board.\n7. Date of examination Sept 16th 1918\n8.  Medical Grade in which placed  Grade (2)\n9. Reason in support of application.  Please see attached Sheet.\n10.  Signature of person by whom application made  William Williams\nDate  Sept 18th. 1918\n\u003cp\u003eName of Tribunal: Cardiganshire/Cardigan County\u003cp\u003eTag: Unknown document type","format":"text/plain"}},{"@type":"oa:Annotation","motivation":"sc:painting","on":"https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976876.json#xywh=0,0,3644,5532","resource":{"@type":"cnt:ContentAsText","chars":"Description: Beige form \nReverse of Form R.M. 1\nFOR USE OF APPEAL TRIBUNAL\nCardiganshire Tribunal\u003cp\u003eTranscription: 11.  Decision of the Tribunal\nThe application is allowed\u003cp\u003eTag: Unknown document type","format":"text/plain"}}]}
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://mcgrattan.org/oa_manifest_list?manifest=https:%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F3976818%2Fmanifest.json&flatten=True&show_keys=True&most_recent=True&use_ids=False",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976819.json#xywh=0,0,3696,5556",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 6<p>Name: Johnny Davies<p>Age: 23<p>Address: Vrondolay New Quay<p>Occupation, profession or business: General farm servant<p>Grounds: G. (His services are absolutely necessary for I am personally unable to do anything on the farm.)<p>Nature of application: I am asking for absolute Exemption.<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976820.json#xywh=0,0,3700,5580",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: I cannot manage my agricultural land without the services of Johnny Davies. If he is taken away I have no other alternative but to sell up my two horses and the two cows and allow the land to grow wild and to be uncultivated. As I asked before in my former application on Form R13 the aforesaid Johnny Davies and one housemaid are the only employees in my service. He is in full charge of the farm, doing anything necessary on it throughout the year. The horses, cows pigs and poultry are also under his sole care. He is also in charge of the garden. Including all I can assure you he is fully employed and his services are therefore absolutely necessary for me. I may add that I could not secure the services of anyone anywhere in the locality to replace him because of the scarcity of farm labour in the district and I therefore earnestly appeal for the exemption of the said Johnny Davies.<p>Signature: Jno[?] Thomas<p>Address: Vrondolay New Quay<p>Occupation, profession or business: gentleman<p>Date of application: 1916-02-15T18:03:18.000Z<p>Decision of the Tribunal: Appeal refused\n\nE.J. Davies\n\nChairman  March 14.1916<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976821.json#xywh=0,0,3648,5592",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Form R-45. Notice of Appeal to Appeal (replacing form's \"Central\") Tribunal. Johnny Davies of Vrondolay New Quay, Farm Servant, not attested.<p>Transcription: I appeal on the grounds that I feel that my case has been unjustly considered by the Local Tribunal for reasons already submitted which are - \n1. I hold 41 acres more or less of land, 26 acres of which are grazing land which I rent. \n2. My arable land is about 4 or 5 acres more or less and to take my servant man away immediately will mean that this land will have to remain 12 months at least uncultivated, and so far I have NO prospects to secure any reliable farm hand to replace him. I cannot do anything myself - not brought up to it.\n3. I have 2 horses, 2 colts the Carter are not in also 2 cows/calf and calf daily expected. It will not be easy to sell any of these at a moment's notice if my man is taken away immediately. My man is in sole charge of the above animals and of the farm. I asked for his exemption on the above grounds. If this is not justified from your point of view give me 2 months extension of time for me to set and sow the land or 6 weeks to dispense with or sell all of my animals and the land can remain in fallow.<p>Name of Tribunal: Cardiganshire/Cardigan County<p>Number of Case: None<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976822.json#xywh=0,0,3668,5592",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Title of \"For Appeal Tribunal\"<p>Transcription: 4.  Reasons for the decision of the Appeal Tribunal. .... (Blank)\n5.  Decision. Appeal Dismissed. 29/2/16 by NW Jones Chairman<p>Name of Tribunal: Cardiganshire/Cardigan County<p>Number of Case: None<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976823.json#xywh=0,0,3684,5544",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: None<p>Name: Simon Rees Evans<p>Address: Marfa gwyn New Quay<p>Occupation, profession or business: Mechanic cars<p>Attested or not attested: Yes<p>Grounds: The appellant being employed by a London Firm the New Quay Tribunal had no power to deal with the case<p>Signature of appellant: Jenkin Thomas<p>Address of appellant: 11 Park Street New Quay<p>Occupation, profession or business: Military Representative<p>Date: 1916-03-16T17:42:41.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976824.json#xywh=0,0,3752,5584",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Title of \"For Local Tribunal\"<p>Transcription: 4. Reasons for the decision ...  [Left blank]\n5. Decision. That the appellant be not exempted.\nSigned by John Jones Chairman on 29/3/16<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976825.json#xywh=0,0,2124,3136",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter<p>Transcription: Urban District Council Office,\nNew Quay,\nCardiganshire\n\n16th May 1916\n\nEvan Evans Esq\nClerk Appeal Tribunal\nAberystwith\n\nDear Sir,\nI enclose application of David Evans to Local Tribunal as requested.\n\nYours truly\nJ.W Newman<p>Name of Tribunal: Unknown<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976826.json#xywh=0,0,3620,5428",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: R-15\nBeige form\nNotice of Appeal<p>Transcription: Name of appellant - David Evans\nAddress Maenygroes, New Quay, Cardiganshire\nBusiness or occupation  Butcher & Farmer\nIf employer is appellant\nName of attested man   John Evans\nAddress  Bryntegwel, New Quay, Cardiganshire\nOccupation  Butcher & Labourer\nGrounds on which appeal is made\nI farm about 20 acres of land and carry on business as butcher. My health has been so poorly during the winter that I have been unable to do anything, and had to depend on my son the said John Evans to do all for me. My health is now slightly better, but I am yet far from being well. If my son is taken away I shall have to give up the farm & my business as butcher.\nDate on which duplicate sent to the other party in the case  May the 10th 1916\nSignature of appellant  David Evans\nDate May the 10th 1916\n\nReasons for the decision of the Local Tribunal\nNot allowed\nE.J.Davies\nChairman\nMay 11. 1916<p>Name of Tribunal: New Quay District<p>Number of Case: No 37   No16<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976827.json#xywh=0,0,3640,5556",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Name: John Evans<p>Address: Bryntegwel, New Quay, Cards.<p>Occupation, profession or business: Butcher & Labourer<p>Attested or not attested: Attested<p>Grounds: I farm about 20 acres of land and carry on business as Butcher. My health has been very poorly, and am still far from being well, so that I have to depend entirely on my son, the said John Evans, to do all for me. If he is taken away I shall be obliged to give up the farm and my business as Butcher.<p>Signature of appellant: David Evans<p>Address of appellant: Maenygroes Farm  New Quay, Cards.<p>Occupation, profession or business: Butcher & Farmer<p>Why appellant acts for the man: Because he is indispensable to me.<p>Date: 1916-05-12T11:23:53.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976828.json#xywh=0,0,3644,5572",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: This application was disallowed by the Local Tribunal as in its opinion no case had been made out for exemption. The applicant states that he will have to give up his farm and his butcher's business if his son leaves, but he admitted in cross examination that he had been obliged to close his butcher's business all the winter owing to ill health, so that it cannot be contended that the business was in any way dependant on the extension of his son's services, and as for the farm the Tribunal felt that with the assistance of his two daughters who are at home he could easily look after his 20 acres of land even if his son who makes his living as a general labourer and only occasionally works for his father, has to join the forces.\n\nJ.W. Thomas\nClerk\nMay 13th/16<p>Decision: Appeal dismissed by consent, the military representative agreeing that the man should not be called up for military service until the 15th day of July 1916.\n\n2/6/16                                 John Jones\n                                              Chairman<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976829.json#xywh=0,0,3644,5548",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 8<p>Name: Thomas Ogman Davies<p>Age: 28 yrs 10 months<p>Address: Guildhall  New Quay  Cardiganshire<p>Occupation, profession or business: Draper<p>Grounds: (d)<p>Nature of application: Absolute Exemption<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976830.json#xywh=0,0,3676,5580",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: I have a business of my own, I have no one to take charge of the business and if I am called up my business will be ruined.\nI may also point out that I am one of four sons and that the other three have already joined the forces, I therefore submit that my claim for exemption is reasonable both from a family and business standpoint.<p>Signature: Thomas Ogman Davies<p>Date of application: 1916-02-19T09:52:30.000Z<p>Decision of the Tribunal: Exempted until September 14th, 1916.\n\nMarch 14, 1916                             E.J. Davies\n                                                         Chairman<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976831.json#xywh=0,0,3596,5488",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: R. - 11.\nNOTICE OF CLAIM BY ATTESTED MAN<p>Transcription: Name:  Thomas Ogmore Davies\nAddress: Guildhall New Quay Cardiganshire\nBusiness or Profession:  Draper\nWhere attested:  Lampeter\nNumber of Group:  11\nTo what group postponement is requested:  Group 11\nGrounds on which the application is made:  I am in business on my own, I have no one to take charge of the business & if I am called up my business will be ruined.\nSignature of attested man:  Thomas Ogmore Davies\nDate:  January 31st 1916<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976832.json#xywh=0,0,3648,5524",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: FOR LOCAL TRIBUNAL<p>Transcription: Decision of Tribunal: Postponed to group 21\n\nFeb.15 1916                               E. J. Davies\n                                                     Chairman<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976833.json#xywh=0,0,3664,5644",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 35<p>Name: Thomas Ogmore Davies<p>Address: 'Guild Hall' New Quay<p>Occupation, profession or business: Draper<p>Grounds: To justify exemption under the Act the hardship must be \"Serious\" and the financial or business or domestic position \"exceptional\", hence the Appeal.<p>Signature of appellant: J. Thomas<p>Address of appellant: 11 Park St. New Quay<p>Occupation, profession or business: Military Representative<p>Date: 1917-01-06T10:04:16.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976834.json#xywh=0,0,3688,5644",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Applicant conducts the business of Draper and Milliner and his being called up would mean his having to close his business, which obviously would be a serious loss to him. He has undergone examination by the Medical Board at Carmarthen and has only been passed for a labour unit. Under the circumstances the local tribunal is strongly convinced that he should be exempted from military service.\nE.J. Davies\nChairman\nJan 8 1917<p>Decision: Appeal dismissed \nJohn Jones\nChairman\nJan 19 1917<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976835.json#xywh=0,0,3600,5420",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Decision of the Tribunal: Exempted till August 22.1916 E.J. Davies. Chairman May. 22.1916<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976836.json#xywh=0,0,3632,5520",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Beige form R-11\nNOTICE OF CLAIM BY ATTESTED MAN (Married)<p>Transcription: 1. Name  Evan Bryn Evans\nAddress  London House New Quay\nBusiness or profession (if not an employed person) Grocer & Provision Merchant\nWhere attested  Lampeter\nNumber of Group 43\n3. To what group postponement is requested  Total Exemption\n4. Grounds on which application is made  Business obligations & Financial Losses\nSignature of attested man Evan Bryn Evans\nDate May 19/1916<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976837.json#xywh=0,0,3608,5520",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Beige form headed 'Observations of Recruiting Officer'<p>Transcription: Decision of Tribunal: Exempted till August 31st 1916.\nE. F. Davies\nChairman\nMay 22 1916<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976838.json#xywh=0,0,3656,5620",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 33<p>Name: Evan Bryn Evans<p>Address: London House, Newquay<p>Occupation, profession or business: Grocer<p>Grounds: To justify exemption under the act the hardship must be \"serious\" and the financial or business obligation or domestic position \"exceptional\" hence the appeal.<p>Signature of appellant: J.Thomas<p>Address of appellant: 11 Park Street New Quay<p>Occupation, profession or business: Military Representative<p>Date: 1917-01-06T09:56:37.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976839.json#xywh=0,0,3644,5588",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Applicant conducts the business of a grocer and his being called up would undoubtedly involve him in serious financial loss. He is moreover 39 years of age and the Local Tribunal consider that he is fully entitled to exemption from military service. \nE.J. Davies, Chairman , Jan 8 1917<p>Decision: Appeal dismissed. Jan 19th 1917, John Jones, Chairman<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976840.json#xywh=0,0,3620,5576",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 17<p>Name: John Owen James<p>Age: 30 years<p>Address: Manchester House & Omin Villa New Quay<p>Occupation, profession or business: General Ironmonger & Implement (Agricultural) Agents<p>Grounds: (d)  &  (g)<p>Nature of application: Absolute<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976841.json#xywh=0,0,3656,5636",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: (1) If called up I shall be compelled to close up and I shall be financially ruined, also if the shop be closed severe hardship will be inflicted on the surrounding Districts to Farmers and others espeshally now that the Harvest is approaching.\n(2) I have on Hand a Heavy stock of Harvesting Machinery Binder Twine (3 1/2 Tons) for which I would be Compelled to pay for at end of season without having a chance of disposing of some etc<p>Decision of the Tribunal: Exempted till August 31st, 1916\nE.J. Davies\nChairman\nMay 22. 1916<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976842.json#xywh=0,0,3680,5540",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 7<p>Name: John Owen James<p>Age: 30 years<p>Address: Omia Villa & Manchester House New Quay<p>Occupation, profession or business: General Ironmonger & Agricultural Implements Agent<p>Grounds: D & G<p>Nature of application: Absolute Exemption<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976843.json#xywh=0,0,3752,5576",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: (a) That I am the sole owner and in charge of a General Ironmongery and Agricultural Implements Business and that in my absence the Business will have to be closed. \n(B) That my Business is the only one of the kind within New Quay and within 7 miles on one side 15 miles on the other and 20 miles on the other side. I supply Agricultural Implements and Machinery and General Ironmongery to practically all the Farms and Inhabitants in surrounding Districts. \n(C) That my business is requrired to serve the needs of the District and that if closed a great deal of hardship will be inflicted upon the Public, especially to Farmers, being that they Depend on me for spare Parts for their Harvesting Machinery.\nD. That in the event of my having to leave the Business and the premises being closed my large and valuable store will be depreciated in value and I shall be financially ruined.<p>Signature: J.O.James<p>Date of application: 1916-02-23T10:23:13.000Z<p>Decision of the Tribunal: Exempted as long as his present circumstances obtain. \nE.J.Davies, Chairman, March 14, 1916<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976844.json#xywh=0,0,3680,5608",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 34<p>Name: John Owen James (Single)<p>Address: Omia Villa & Manchester House, New Quay<p>Occupation, profession or business: Ironmonger<p>Attested or not attested: Yes<p>Grounds: To justify exemption under the Act the hardship must be 'serious' and the financial or business obligations or domestic position 'exceptional' hence the appeal.<p>Signature of appellant: J Thomas<p>Address of appellant: 11 Park St New Quay<p>Occupation, profession or business: Military Representative<p>Date: 1917-01-06T11:10:36.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976845.json#xywh=0,0,3716,5612",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Applicant conducts the business of Ironmonger and Agricultural Implements dealer, doing a large business with farmers several of whom gave evidence that it is very important for them that he should be retained.\nThe Local Tribunal is strongly and unanimously of opinion that he should be exempted from military service.\nE.J. Davies\nChairman\nJan 8. 1917<p>Decision: Appeal dismissed\n[?] Jones\nChairman\nJan 19th 1917<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976846.json#xywh=0,0,3584,5440",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: R-16 Other party\nNOTICE OF APPEAL (DUPLICATE)<p>Transcription: 1. Name of appellant - David James\nAddress: Garage Newquay\nBusiness or occupation: Garage Proprietor\n2. If employer is appellant - Yes\nName of attested man: Daniel James\nAddress: Field Place New Quay\nOccupation: Motor Driver and Mechanic\n3. Grounds on which appeal made. \nWhen Danl James' case was last before you,  I did not apply for his exemption because of my near connection with members of the local tribunal, but now that Dr Griffiths informs me that he is going to apply for his exemption I think it only right to the public & myself that I should state the true facts; I have four cars for public hire & keep up a bi-daily service to Aberayron and owing to the great mileage covered by my cars they call for constant repairs & as Dan James is the only man I know within twenty miles who understands the mechanism & can repair a car, if he leaves me I shall be unable to carry on. Commercial travellers cars also require repairs to continue their journey.\nSignature of appellant: David James\nDate: June 6th 1916\n\nExemption as long as he remains in his present occupation of motor driver and mechanic in this district\nE.J. Davies\nChairman<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976847.json#xywh=0,0,3656,5532",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Name: Daniel James<p>Address: Field Place, New Quay Cards<p>Occupation, profession or business: Motor Driver & Mechanic<p>Grounds: That [CROSSED OUT: notwithstanding that this man's principal and usual occupation is one of the Certified Occupations,] it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation<p>Signature of appellant: Richard E. Jones<p>Address of appellant: Appeal, NS Representative, Drill Hall, Aberystwyth<p>Date: 1918-06-01T09:47:59.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976848.json#xywh=0,0,3680,5552",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: That he is, on account of being the only Motor mechanic a necessity for this district. \nE.J. Davies\nChairman \nMay 30th 1918<p>Decision: The man be exempted from Military Service Temporary up to the 21st day of September 1918. Grounds Certified occupation. \nJuly 5th 1918. Chairman. <p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976849.json#xywh=0,0,3620,5604",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 33<p>Name: Evan Bryn Evans<p>Age: 39<p>Address: London House New Quay. Card<p>Occupation, profession or business: Grocer & Provision & General Merchant<p>Grounds: A,D,G<p>Nature of application: Conditional Exemption<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976850.json#xywh=0,0,3688,5636",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: If called up my Business will be ruined and this would involve myself wife and Family in great Loss Financially, I would also respectfully point out that the War Office acknowledge my Trade as of national importance<p>Signature: Evan Bryn Evans<p>Address: London House New Quay<p>Decision of the Tribunal: Conditional Exemption as long as his circumstances remain as they are at present and provided also he joined the local Volunteer Training Corps. E.J.Davies Chairman, Jan 4 1917<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976851.json#xywh=0,0,3704,5552",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Name: Evan Bryn Evans<p>Address: London House New Quay Cards<p>Occupation, profession or business: Grocer<p>Grounds: That [CROSSED OUT: notwithstanding that this man's principal and usual occupation is one of the Certified Occupations,] it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation<p>Signature of appellant: Richard E. Evans<p>Address of appellant: Appeal, N.S. Representative, Drill Hall, Aberystwyth<p>Date: 1918-06-01T10:54:09.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976852.json#xywh=0,0,3736,5568",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Personal & financial\nBeing proprietor of a one man business and engaged in distributing food\nEJ Davies Chairman\nMay 30. 1918<p>Decision: The man be exempted from Military Service Temporary until the 21st day of September 1918. Grounds Occupation and Serious hardship.\nJuly 5th 1918. Chairman.<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976853.json#xywh=0,0,3608,5492",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Tribunal: Cardiganshire/Cardigan County<p>Name: Griffith Arthur Rees<p>Age: 38<p>Date of birth: 1879-09-07T04:59:37.000Z<p>Medical grade category: Grade 3<p>Date of last examination: 1918-03-01T03:59:37.000Z<p>Married or single: Married<p>Date of marriage: 1913-12-27T03:59:37.000Z<p>Voluntarily attested: Yes<p>Address: 12 Rock St  New Quay<p>Address on National Registration Certificate: Same<p>Occupation, profession or business: Carpenter, Undertaker & Boat Repair<p>Address of place of employment: Patent Slip Joinery<p>Precise occupation before 15 August 1915: As above<p>Length of occupation before 15 August 1915: 18 years<p>Name of employer: Self<p>Address: 12 Rock St  New Quay<p>Business: As above<p>Nature of application: Renewal<p>Grounds: A  &  D<p>Reasons in support of application: Circumstances exactly the same as when former application was made.<p>Tag: Beige R186/187, page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976854.json#xywh=0,0,3628,5460",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Whether any previous application has been made: Cardiganshire Appeal Tribunal. Exemption for three months.<p>Change of conditions or circumstances: No<p>Signature of the man: G. A.  Rees<p>Date: 1918-11-21T04:06:28.000Z<p>Tag: Beige R186/187, page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976855.json#xywh=0,0,3356,4132",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter<p>Transcription: To the Chairman and Members of the Appeal Tribunal for the County of Cardigan.\n\nGentlemen,\nWe the undersigned boatmen and fishermen earning our living in the Harbour of Newquay, respectfully appeal to the County Tribunal to uphold the decision of the Local Tribunal in the case of Mr Griffith Arthur Rees and to confirm his exemption. We are dependent on him for the supply of materials and for doing all repairs to our boats, and it is very important for us, that his services should be available as in the past.\nWe would strongly emphasise the assertion that his retention in his foresent business is essential for us, and we consider his work is of national importance inasmuch as his service is important to us in fishing operations thus producing food for the Community We very earnestly appeal for his exemption, E. P. Jones.\nLewis Davies, 14 Rock St;\nDaniel Davies, 10 Rock St;\nD E Jones, 4 Do;\nEvan Williams, 4 Rock St;\nR Williams,\nThomas Davies,\nJohn Jones,\nHenry Davies,\nEvan Evans,\nFred Charlor,\nGriffith Griffiths,\nDavid Evans,\nJohn Thomas,\nJohn Jones,\nDavid Rees,\nT. C. James,\nThomas Thomas,\nJ. Evans,\nJ. Davies,\nLewis Evans,\nThomas Evans,\nBenjamin Davies,\nDavid Davies.<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976856.json#xywh=0,0,3652,5556",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 36<p>Name: Griffith Arthur Rees<p>Age: 36<p>Date of birth: 1879-09-07T05:08:51.000Z<p>Married or single: Married<p>Date of marriage: 1913-12-26T04:08:51.000Z<p>Address: 12 Rock Street New Quay<p>Address at date of National Registration: Same<p>Occupation, profession or business: Carpenter & Joiner & Boat repairer<p>Length of occupation before 15 August 1915: 8 years at New Quay<p>Grounds: A  &  D<p>Nature of application: Conditional Exemption<p>Tag: Beige R41/42: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976857.json#xywh=0,0,3700,5568",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reasons: If call away my business would be ruined and the consequent hardship & financial loss would be very serious to me.<p>Previous applications: Yes. Granted three months exemption by the New Quay tribunal.<p>Signature: Griffith Arthur Rees<p>Date of application: 1916-08-16T05:18:22.000Z<p>Decision of the Tribunal: Conditional Exemption as long as his circumstances remain as at present and provided he joins the local Volunteer Training Corps.  E.J. Davis Chairman.  Jan. 4. 1917<p>Tag: Beige R41/42: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976858.json#xywh=0,0,3644,5540",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Name: Griffith Arthur Rees<p>Address: 12 Rock St, New Quay  Cards<p>Occupation, profession or business: Carpenter<p>Grounds: That it is no longer necessary in the national interest that he shall be allowed to remain in civil occupation.<p>Signature of appellant: Richard  E.  Jones<p>Address of appellant: Appeal, N.S. Representative, Drill Hall, Aberystwyth<p>Date: 1918-06-01T05:23:04.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976859.json#xywh=0,0,3700,5548",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Personal and financial also essential to the place as boat repairer which is very important for the local fishermen.  He is a Grade 3 man and his withdrawal from his present occupation would be very prejudicial. E.J.Davies Chairman May 30 1918<p>Decision: This man be exempted from Military Service. Temporary up to 21st September 1918.  Grounds occupation and serious hardship.\n\nJuly 5th 1918         Chairman<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976860.json#xywh=0,0,3624,5616",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Tribunal: New Quay District<p>Number of Case: 14<p>Name: Griffith Arthur Rees/Read<p>Age: 38<p>Date of birth: 1879-09-07T14:08:17.000Z<p>Medical grade category: Grade 3<p>Date of last examination: 1918-03-11T15:08:37.000Z<p>Married or single: Married<p>Date of marriage: 1913-12-26T15:08:56.000Z<p>Regional number: K352628<p>Voluntarily attested: Yes<p>Address: 12 Rock St New Quay<p>Address on National Registration Certificate: 12 Rock St<p>Occupation, profession or business: Carpenter, Undertaker & Boat Repairer<p>Address of place of employment: Patent Slip, New Quay<p>Precise occupation before 15 August 1915: [same]<p>Length of occupation before 15 August 1915: since I was 14 years old <p>Name of employer: self<p>Nature of application: Renewal<p>Grounds: A. D. & G.<p>Reasons in support of application: It is important in the interest of the fishermen that I should be kept here as otherwise it would be very difficult for them to continue their work if any damage occurred to their boats. I also do considerable undertaking work and further I supply a number of undertakers in the adjacent district with trade material, being the only one in the neighbourhood who has a stock always available.\nHaving a large stock on hand it would be a very serious financial loss if I had to leave.<p>Tag: Beige R186/187, page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976861.json#xywh=0,0,3660,5620",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Whether any previous application has been made: Appeal Tribunal July 5, 1918, when exemption of six months given by New Quay Local Tribunal was reduced to 3 months. This exemption expires Sept 21. 1918.<p>Change of conditions or circumstances: No change.<p>Signature of the applicant: G. A.  Rees<p>Address: 12 Rock Street New Quay Card.<p>Date: 1918-08-29T05:26:47.000Z<p>Decision of the Tribunal: The exemption is Temporary up to and including December 6th 1918. The ground on which the exemption is granted is Occupation.  6/9/18  Chairman<p>Tag: Beige R186/187, page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976862.json#xywh=0,0,3664,5616",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Local Tribunal: New Quay District<p>Number of Case: 36<p>Name: Griffith Arthur Rees<p>Address: 12 Rock Street New Quay<p>Occupation, profession or business: Carpenter<p>Attested or not attested: (ticked)<p>Grounds: To justify Exemption under the Act the hardship must be 'serious' and the financial or business obligations or domestic position 'exceptional' hence the appeal,<p>Signature of appellant: J Thomas<p>Address of appellant: 11 Park Street, New Quay<p>Occupation, profession or business: Military Representative<p>Date: 1917-01-06T15:13:56.000Z<p>Tag: Pink R43/R44: Page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976863.json#xywh=0,0,3716,5648",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Reason for decision of Local Tribunal: Applicant conducts the business of Cabinet Maker Builder and Boat Repairer, which if called it would have to be closed, His service is of very great importance to the fishermen, and his having a big stock in trade would mean to him a very serious financial loss. The local tribunal is strongly convinced that he is entitled to exemption. E.J. Davies, Chairman Jan 8 1917<p>Decision: Appeal dismissed \nJohn Jones Chairman \nJan 19 1917<p>Tag: Pink R43/R44: Page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976864.json#xywh=0,0,3640,5512",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name: Griffith Arthur Rees<p>Age: 38<p>Date of birth: 1879-09-07T12:48:00.000Z<p>Medical grade category: Grade 3<p>Date of last examination: 1918-03-01T13:50:30.000Z<p>Married or single: Married<p>Date of marriage: 1913-12-27T13:53:00.000Z<p>Voluntarily attested: Yes<p>Address: 12 Rock St  Newquay<p>Occupation, profession or business: Carpenter Undertaker & Boat Repairer<p>Address of place of employment: Patent Slip ???<p>Precise occupation before 15 August 1915: As Above<p>Length of occupation before 15 August 1915: 18 years<p>Name and address of last employer before 15 August 1915: Self<p>Name of employer: Self<p>Address: As above<p>Business: As above<p>Nature of application: Renewal<p>Grounds: A & D<p>Reasons in support of application: Circumstances exactly the same as when former application was made<p>Tag: Beige R186/187, page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976865.json#xywh=0,0,3636,5500",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Whether any previous application has been made: Cardiganshire Appeal Tribunal\nExemption for three months<p>Change of conditions or circumstances: Not<p>Signature of the man: G. A Rees<p>Date: 1918-11-29T14:22:44.000Z<p>Tag: Beige R186/187, page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976866.json#xywh=0,0,2076,3112",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter written on beige paper\n\"27\" written on top right corner<p>Transcription: Tynant\nNew Quay, Cards.\nSept.6.18\nDear Sir,\nI am writing this in support  of the appeal which Mr. David James is making for Daniel James, his motor mechanic.\nI am one of the local doctors, & I keep two cars &  a motor bicycle, & it is in the nature of things that they often go wrong, & it is entirely due to Daniel James that I am able to carry on. My predecessor here kept a man<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976867.json#xywh=0,0,2120,3072",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter written on beige paper\nPart 2 of letter addressed Tynant, New Quay, Cards\nDated Sept. 6. 18<p>Transcription: man, but I haven't one, & depend on James. to keep my machines in going order.\n\nYours faithfully\nD.R.T. Griffiths<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976868.json#xywh=0,0,3652,5620",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Tribunal: New Quay District<p>Name: Daniel James<p>Age: 32<p>Date of birth: 1885-09-22T14:32:04.000Z<p>Medical grade category: 4<p>Date of last examination: 1917-04-10T14:32:50.000Z<p>Married or single: Married<p>Date of marriage: 1914-11-14T15:33:19.000Z<p>Voluntarily attested: Yes<p>Address: 1 Field Place New Quay<p>Address on National Registration Certificate: 1 Field Place New Quay<p>Occupation, profession or business: Motor mechanic<p>Address of place of employment: Garage New Quay<p>Precise occupation before 15 August 1915: Yes<p>Length of occupation before 15 August 1915: 2 years<p>Name and address of last employer before 15 August 1915: Same employer<p>Name of employer: David James<p>Address: Garage New Quay<p>Business: Garage Proprietor<p>Nature of application: For renewal<p>Grounds: A<p>Reasons in support of application: The applicant being the only Motor Mechanic in the district his services are indispensable for the public interest. The Public Motor Services between New Quay and Aberayron the upkeep of which is dependent upon him and also the Repairs of every other car in the district. I attach Dr Griffiths letter in support of my appeal<p>Tag: Beige R186/187, page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976869.json#xywh=0,0,3632,5576",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Whether any previous application has been made: ii By Employer, A County Tribunal,  B June 1918 (C) Certified occupation, D. Sept 21/18   June 1918<p>Signature of the applicant: David James<p>Address: Garage, New Quay<p>Signature of the man: Daniel James<p>Decision of the Tribunal: The exemption is Temporary up to and including 25th April 1919. The ground on which the exemption is granted is: Occupation. Chairman, 25/10/1918<p>Tag: Beige R186/187, page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976870.json#xywh=0,0,3604,5480",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Name of Tribunal: Unknown<p>Name: Evan Bryn Evans<p>Age: 40<p>Date of birth: 1877-10-18T11:01:22.000Z<p>Medical grade category: 2<p>Date of last examination: 1918-06-20T11:27:40.000Z<p>Married or single: Married<p>Date of marriage: 1907-12-26T12:01:22.000Z<p>Regional number: K350104<p>Voluntarily attested: Yes<p>Address: London House New Quay. Card<p>Address on National Registration Certificate: London House New Quay Card<p>Occupation, profession or business: Family and Shipping. Grocer & Provision & General Merchant<p>Address of place of employment: London House New Quay Card<p>Precise occupation before 15 August 1915: In the Same occupation<p>Length of occupation before 15 August 1915: 9 years at the same address and about 16 years at Cardiff in the same occupation<p>Name and address of last employer before 15 August 1915: Self<p>Nature of application: Renewal<p>Grounds: D & G<p>Reasons in support of application: Because my Business is entirely a one Man's Business, and if I am called upon to join the colours, I shall have to wind up my Business  as I have nobody capable of taking Charge, It is more than my wife can possibly manage Especially under the present  Conditions, with all the extra Work incurred  with the Ration Books. She is also physically  unit, I also respectfully beg to point out that the Grocery provision Trade is included on the new List  of Certified Occupations.<p>Tag: Beige R186/187, page 1",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976871.json#xywh=0,0,3624,5504",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Whether any previous application has been made: By Self to the appeal Tribunal on the 5th of July 1918 3 months Exemption Expiring on the 31st of Sept 1918<p>Change of conditions or circumstances: Renewal<p>Signature of the man: Evan Bryn Evans<p>Date: 1918-08-31T11:21:35.000Z<p>Decision of the Tribunal: The exemption is Temporary up to and including 25th April 1919 .\nThe ground (or grounds on which the exemption is granted is Certified occupation. 25.10.1918.  Chairman<p>Tag: Beige R186/187, page 2",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976872.json#xywh=0,0,3500,3524",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter<p>Transcription: Copy of Medical Certificate handed to the President of the Medical Board.\n1. I beg to certify that I attended Wm Williams Brynsiloh, Nanternis, New Quay, Cards.when 20 years of age from Tubercular Pleurisy with effusion on left side, which has left some retraction of lung. He has since then been troubled with shortness of breath, and inability to sleep on the left side.  He is generally in a weak state of health and extremely nervous, with cold and clammy extremities. I have advised him to see the Tuberculosis Officer, as he has today (6.0PM) a temperature of 99.5. \nSigned Evan Evans F.R.C.S. D.P.H. , Aeron Villa Felinfach\nII  Wm Williams Brynsiloh, Nanternis NewQuay Cards\nPleurisy with effusion 10 Years Ago.\n1 Brother died of P.H.\nSputum now Negative\n2. Diagrams of Chest (Front & Behind) showing\n(a) P.T. Crops in Lungs\n(b) That Chips of Lungs do not increase by cough.\nD.Chas Lloyd, Tuberculosis Officer, Lampeter. May 1918<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976873.json#xywh=0,0,3544,3556",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter<p>Transcription: 9. On May 20th 1918 I was examined by the National Service Medical Board Carmarthen, and was handed a certificate of which the following is a Copy:\n\"The examination of Mr Wm Williams residing at Brynsiloh, Nanternis, New Quay has been postponed till 20th July 1918 on account of T.B. on which date he will be required to present himself for Medical Examination.\" Signed: C.P.Parry, Deputy \nCommissioner Medical Board Carmarthen.\nAgain on July 18th I was examined, and again received a Certificate similar to the above, postponing my examination till Sept 18th on account of T.B.\nI was the third time notified from Brecon to attend at Carmarthen for Examination on Sept 16th. On that date I was not examined by the Medical Board, and after about half-an-hour's search I was informed that my History Sheet had not been sent from Brecon, and was handed a \"Classification Card\" Grade (2), dated May 20th 1918, bearing in the space for Signature of Man , a signature other than mine. I objected to  the date on the card, and to the signature, and then was allowed to sign that it was on Sept 16th that I received same.\nI was not allowed my day's fee (3/6d) at Carmarthen, as I was not examined, although a \"Claim Form\" was sent on to me from Brecon.\nIn view of the above facts, I appeal for the right to appear before the Medical Assessors.<p>Name of Tribunal: New Quay District<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976874.json#xywh=0,0,3132,4172",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Letter written by Evans Rowlands <p>Transcription: My name is Evan Rowlands now a butcher @ Aberayron and have 350 customers (350 coupons) per week to supply with meat, There are only two regular butchers at Aberayron. I joined the Army April 1916 And in three months training was discharged owing to a Valvular Disease of the Heart believing that I would not be called upon to join again I opened a business @ Aberayron.\nThe Medical Gentlemen told me at my last examination, that I should not be sent for examination so often, owing to the fact that VDH will not improve by excitement\nE Rowlands<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976875.json#xywh=0,0,3600,5508",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Beige form\nApplication for Medical Re-examination  R.M.1<p>Transcription: 1. Name of man William Williams\n2. Address  Brynsiloh, Nanternis, New Quay, Cardiganshire\n4. Years of age last birthday  29   Date and year of birth  October 19th 1888\n5. Occupation, profession or business  Schoolmaster - Headteacher of  Llwyndafydd Council School\n6.  Name and address of National Service Medical Board by whom last examined. Carmarthen National Service Medical Board.\n7. Date of examination Sept 16th 1918\n8.  Medical Grade in which placed  Grade (2)\n9. Reason in support of application.  Please see attached Sheet.\n10.  Signature of person by whom application made  William Williams\nDate  Sept 18th. 1918\n<p>Name of Tribunal: Cardiganshire/Cardigan County<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://damsssl.llgc.org.uk/iiif/2.0/3976818/canvas/3976876.json#xywh=0,0,3644,5532",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "Description: Beige form \nReverse of Form R.M. 1\nFOR USE OF APPEAL TRIBUNAL\nCardiganshire Tribunal<p>Transcription: 11.  Decision of the Tribunal\nThe application is allowed<p>Tag: Unknown document type",
+                "format": "text/plain"
+            }
+        }
+    ]
+}
