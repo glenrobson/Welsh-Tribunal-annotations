@@ -3,7 +3,7 @@
 import json
 import sys
 import sqlite3
-
+import addGrounds
 
 def string2json(line):
     data = {}
@@ -20,7 +20,7 @@ def createDB(conn):
     conn.execute("create table if not exists form(id varchar(150), type varchar(150), key varchar(150), value varchar(256))") # id should be date+amount
 
     conn.execute("drop table if exists form_canvas")
-    conn.execute("create table if not exists form_canvas (form_id varchar(150),type varchar(150),  canvas_id  varchar(150))") # id should be date+amount
+    conn.execute("create table if not exists form_canvas (form_id varchar(150),type varchar(150), canvas_id varchar(150), manifest_id varchar(150))") # id should be date+amount
     
 def createId(anno1, anno2=None):
     if anno2 is None:
@@ -35,6 +35,10 @@ def shortId(canvas_uri):
 def anno2ImageLink(anno):
     canvasId = anno["on"].split('#')[0].split('/')
     return "{}/image/{}/full/1200,/0/default.jpg".format("/".join(canvasId[0:5]), canvasId[7].split('.json')[0]) 
+
+def anno2manifest(anno):
+    canvasId = anno["on"].split('#')[0].split('/')
+    return "https://damsssl.llgc.org.uk/iiif/2.0/{}/manifest.json".format(canvasId[5]) 
 
 def runFixes(anno, pageData):
     runFixOnLis(anno,pageData, ['4003411'], 'Blue R52/53, page 1') 
@@ -109,8 +113,10 @@ with open(sys.argv[1]) as f:
                 shortTag = tag.split(',')[0]
             elif ':' in tag:
                 shortTag = tag.split(':')[0]
-            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?)', [identifier, page1Data['Tag'], page1["on"].split('#')[0]])
-            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?)', [identifier, page2Data['Tag'], page2["on"].split('#')[0]])
+            
+            manifest = anno2manifest(anno)
+            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?, ?)', [identifier, page1Data['Tag'], page1["on"].split('#')[0], manifest])
+            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?, ?)', [identifier, page2Data['Tag'], page2["on"].split('#')[0], manifest])
      
             entry = page1Data
             entry.update(page2Data)
@@ -129,7 +135,8 @@ with open(sys.argv[1]) as f:
             for key in pageData:
                 # need to move Tag to a field in db
                 conn.execute('INSERT INTO form VALUES (?, ?, ?, ?)', [identifier, tag, key, pageData[key]])
-            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?)', [identifier, tag, anno["on"].split('#')[0]])
+            manifest = anno2manifest(anno)
+            conn.execute('INSERT INTO form_canvas VALUES (?, ?, ?, ?)', [identifier, tag, anno["on"].split('#')[0], manifest])
         else:
             # page not tagged with a type
             print ('Page not tagged with a type {}\n'.format(anno['resource']['chars'].encode('utf-8')))
@@ -137,6 +144,7 @@ with open(sys.argv[1]) as f:
             #print (pageData)
 
     conn.commit()
+    addGrounds.runGroundsCount(conn)
     conn.close()
 
 #print (entries)
